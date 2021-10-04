@@ -15,7 +15,6 @@ while contador <= 880:
     contador += 1
 pyautogui.alert('Fim')
 
-# 3138
 
 #  pyautogui.alert('')          -     Mostra mensagem na tela.
 #  pyautogui.PAUSE = 0.0        -     Adiciona um delay no code
