@@ -29,11 +29,11 @@ while contador <= 2:
             print('Jogada Invalida!')
     elif computador == 1:
         if jogador == 0:
-            print('JOGADOR VENCEU!')
+            print('COMPUTADOR VENCEU!')
         elif jogador == 1:
             print('EMPATE!')
         elif jogador == 2:
-            print('COMPUTADOR VENCEU!')
+            print('JOGADOR VENCEU!')
         else:
             print('Jogada Invalida!')
     elif computador == 2:
