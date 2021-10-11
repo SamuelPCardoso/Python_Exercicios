@@ -1,8 +1,5 @@
-num1 = input('Digite um valor: ')
-num2 = input('Digite outro valo: ')
-
-num1 = int(num1)
-num2 = int(num2)
+num1 = int(input('Digite um valor: '))
+num2 = int(input('Digite outro valo: '))
 
 total = (num1 + num2)
 
