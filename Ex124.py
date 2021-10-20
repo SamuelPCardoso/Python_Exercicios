@@ -4,7 +4,7 @@ contador = 0
 
 pyautogui.alert('NÃO USAR O COMPUTADOR!')
 
-while contador <= 50:
+while contador <= 0:
     pyautogui.moveTo(x=180, y=273)
     time.sleep(2)
     pyautogui.click()
