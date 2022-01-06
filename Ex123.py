@@ -1,4 +1,4 @@
 import qrcode
 
-imagem_qrcode = qrcode.make('https://g.page/r/CRONoD8RE2QTEAg/review')
-imagem_qrcode.save('Arco de Pua Araxa.png')
+imagem_qrcode = qrcode.make('3366')
+imagem_qrcode.save('3366.png')
